@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e62c6ab8-7c18-44d2-bc0e-5666e2ac2b51" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Reusable_information/Reusable_Library_Loggers_POM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Reusable_information/Reusable_Library_Loggers_POM.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
